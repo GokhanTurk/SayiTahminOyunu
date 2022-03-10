@@ -32,8 +32,8 @@ Ana menüye dönmek için "Enter" tuşuna basınız! """)
         break
 def logo(): #Logo yazdıran fonksiyon
     print("""
-       o   o
-        \_/
+        o   o
+         \_/
         ( Oo)                           \|/
         (_=-)  .===O-  ~~GÖKHAN TÜRK ~~ -O-
         /   _/U'                        /|\\
